@@ -4,3 +4,5 @@
 *.o
 
 cc3k\+
+
+.DS_Store
